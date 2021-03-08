@@ -1,0 +1,1 @@
+data class Node(val num: Int, val x: Double, val y: Double)
